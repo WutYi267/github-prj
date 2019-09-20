@@ -1,7 +1,3 @@
-#Ignore file named 'README.txt'
-README.txt
-
-#Ignore folder named 'log'
-log/
-
+# Logs#
+######################
 *.log
