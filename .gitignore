@@ -3,4 +3,4 @@
 **/log
 
 #Ignore README
-README.md
+*.md
