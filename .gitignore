@@ -1,8 +1,0 @@
-$ cat .gitignore
-$ cat .git/info/exclude
-#Ignore log folder#
-######################
-**/log
-
-#Ignore README
-*.md
