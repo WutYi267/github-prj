@@ -1,3 +1,4 @@
+$ cat .gitignore
 #Ignore log folder#
 ######################
 **/log
